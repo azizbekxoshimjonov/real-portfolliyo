@@ -1,0 +1,189 @@
+.name__title {
+    color: rgb(19, 34, 56);
+    font-family: Work Sans;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 84px;
+    margin-left: 120px;
+}
+
+.name__des {
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    margin-top: 24px;
+    margin-left: 120px;
+}
+
+.hero__box {
+    width: 536px;
+    height: 636px;
+}
+
+.box1 {
+    display: flex;
+    align-items: center;
+}
+
+.hello__btn {
+    width: 126px;
+    height: 48px;
+    border-radius: 4px;
+    background: rgb(165, 61, 255);
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    border: none;
+    margin-top: 24px;
+    margin-left: 120px;
+}
+
+.boxs {
+    width: 200px;
+    height: 106px;
+    box-sizing: border-box;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 6px;
+    background: rgba(237, 216, 255, 0.5);
+    text-align: center;
+    padding-top: 17px;
+
+    h2 {
+        color: rgb(66, 78, 96);
+        font-family: Work Sans;
+        font-size: 32px;
+        font-weight: 600;
+        line-height: 40px;
+        letter-spacing: 0%;
+        text-align: center;
+    }
+
+    p {
+        color: rgb(105, 116, 132);
+        font-family: Work Sans;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0%;
+        text-align: center;
+    }
+}
+
+.careriya__box {
+    display: flex;
+    align-items: center;
+    margin-top: 125px;
+    margin-left: 120px;
+}
+
+.user__box12 {
+    width: 1190px;
+    height: 668px;
+    border-radius: 16px;
+    box-shadow: 0px 36px 105px 0px rgba(43, 56, 76, 0.1);
+    background: rgb(255, 255, 255);
+    margin: 0 auto;
+    display: block;
+    margin-top: 100px;
+}
+
+.ichki__userbox {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 112px;
+}
+
+.user__title {
+    color: rgb(19, 34, 56);
+    font-family: Work Sans;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 50px;
+    letter-spacing: 0%;
+    padding-top: 60px;
+}
+
+.user__des {
+    color: rgb(85, 96, 112);
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    margin-top: 32px;
+}
+
+.user__btn1 {
+    width: 132px;
+    height: 48px;
+    border-radius: 4px;
+    box-shadow: 0px 36px 105px 0px rgba(43, 56, 76, 0.1);
+    background: rgb(165, 61, 255);
+    margin-top: 32px;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+}
+
+.user__btn2 {
+    display: flex;
+    align-items: center;
+    padding-left: 22px;
+    gap: 4px;
+    width: 190px;
+    height: 48px;
+    box-sizing: border-box;
+    border: 1px solid rgb(165, 61, 255);
+    border-radius: 4px;
+    background: rgb(255, 255, 255);
+    color: rgb(165, 61, 255);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    margin-top: 32px;
+    margin-left: 16px;
+    cursor: pointer;
+
+    img {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+}
+
+.hero__box {
+    width: 500px;
+    height: 500px;
+    border-radius: 25px;
+    box-shadow: 0px 24px 116px 0px rgba(43, 56, 76, 0.09);
+    background: rgb(255, 255, 255);
+    margin-top: -150px;
+    margin-left: 130px;
+}
+.hero__img{
+    width: 120%;
+    height: 100%;
+}
+.hero__box2{
+    width: 500px;
+    height: 500px;
+    border-radius: 25px;
+    box-shadow: 0px 24px 116px 0px rgba(43, 56, 76, 0.09);
+    background: rgb(255, 255, 255);
+
+}
